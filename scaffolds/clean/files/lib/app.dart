@@ -6,7 +6,7 @@ class @AppNameApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Boti App',
+        title: '@appName',
         navigatorKey: AppNavigator.navigatorKey,
         initialRoute: '/',
         onGenerateRoute: RouteGenerator.generateRouter,
