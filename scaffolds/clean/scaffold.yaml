@@ -1,6 +1,7 @@
 name: clean
 description: A scaffold with clean architecture pattern.
 author: Alberto Chamorro <a.chamorro.ruiz@gmail.com>
+copy_files: true
 
 structure:
   - presentation:
